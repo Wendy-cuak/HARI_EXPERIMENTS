@@ -23,6 +23,7 @@ The display script permits a fast view of the pickle information.
 ![image](https://github.com/user-attachments/assets/3d3e26e1-ea5c-4ef1-837b-5bae73ab63e9)
 
 - **pickles files**
+
 Results after run dataset_generation.py
 
-[folder](https://drive.google.com/drive/folders/10X1aSppbKKTvbqOlGEkJky21L9AWAmyE?usp=drive_link)
+[dataset_folder](https://drive.google.com/drive/folders/10X1aSppbKKTvbqOlGEkJky21L9AWAmyE?usp=drive_link)
